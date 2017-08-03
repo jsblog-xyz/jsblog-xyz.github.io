@@ -15,7 +15,7 @@ github_username:  https://github.com/jsblog-xyz
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: https://fuckit-1.disqus.com   # get one: https://disqus.com/admin/signup/
+disqus_shortname: fuckit-1   # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
