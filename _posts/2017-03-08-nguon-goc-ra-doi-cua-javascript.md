@@ -2,6 +2,7 @@
 layout: post
 title : Nguồn gốc sự ra đời của javascript
 date:   2017-08-03 21:31:13
+comments: true
 categories :
 - JavaScript
 tag :js, javascript, brendan eich
